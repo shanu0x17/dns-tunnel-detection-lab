@@ -1,0 +1,7 @@
+scapy==2.7.0
+dnspython==2.8.0
+dnslib==0.9.26
+pandas==3.0.2
+altair==6.3.0
+streamlit==1.64.0
+pytest==9.1.1
