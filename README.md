@@ -252,7 +252,7 @@ The Streamlit dashboard is organized into three analyst-oriented views.
 
 ### Signal Contributions
 
-![Signal Contributions](docs/screenshots/Signal%20contributions.png)
+![Signal Contributions](docs/screenshots/Signal%20Contributions.png)
 
 ## 🎬 Demo Video
 
